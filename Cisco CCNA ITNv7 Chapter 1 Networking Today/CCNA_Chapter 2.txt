@@ -1,0 +1,14 @@
+CCNA 1 - Chapter 2
+==================
+
+Configuring a Switch or Router
+	conneting -- Console cable (Serial), Ethernet cable (SSH, Telnet)
+	Consoling -- Patty, Tera Term, SecureCRT
+Cisco IOS -- Cisco router and switch operating sysyem
+
+Switch>			- User Exec mode        (Pasword to access device)
+Switch#			- Privileged Exce mode  (Passworw configure device)
+Switch(config)#		- Globale configuration mode
+Switch(config-line)#    - Line configuration mode
+Switch(config-if)#	- Interface configuration mode
+
